@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently focused on completing my studies.<br>👯 I'm eager to collaborate on open-source projects.<br>🤝 I'm seeking assistance to enhance my programming skills.<br>🌱 I’m currently learning  HTML and CSS .<br>💬 Feel free to ask me anything!<br>⚡ Traveling is a passion of mine!
+🔭 I'm currently focused on completing my studies.<br>👯 I'm eager to collaborate on open-source projects.<br>🤝 I'm seeking assistance to enhance my programming skills.<br>🌱 I’m currently learning  C and PHP .<br>💬 Feel free to ask me anything!<br>⚡ Traveling is a passion of mine!
 
 
 ## 🌐 Socials:
